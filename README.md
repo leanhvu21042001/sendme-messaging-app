@@ -1,1 +1,1 @@
-# sendme-messaging-app
+# Sendme messaging app
